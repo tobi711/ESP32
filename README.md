@@ -562,13 +562,4 @@ NOTICE:
 Parts of the source files in this repository are made available under different licenses,
 see file <A HREF="https://github.com/cyberman54/ESP32-Paxcounter/blob/master/LICENSE">LICENSE.txt</A> in this repository. Refer to each individual source file for more details.
 
-# Credits
 
-Thanks to 
-- [Oliver Brandmüller](https://github.com/spmrider) for idea and initial setup of this project
-- [Charles Hallard](https://github.com/hallard) for major code contributions to this project
-- [robbi5](https://github.com/robbi5) for the payload converter
-- [terrillmoore](https://github.com/mcci-catena) for maintaining the LMIC for arduino LoRaWAN stack
-- [sbamueller](https://github.com/sbamueller) for writing the tutorial in Make Magazine
-- [Stefan](https://github.com/nerdyscout) for paxcounter opensensebox integration
-- [August Quint](https://github.com/AugustQu) for adding SD card data logger, SDS011 and ENS support
