@@ -141,5 +141,7 @@ uint16_t mac_add(uint8_t *paddr, int8_t rssi, bool sniff_type) {
 
   // if a new and unique Wifi or BLE mac was counted, returs hash of this mac,
   // else 0
+  printf("\nMAC Adresse: %i",hashedmac);
+
   return hashedmac;
 }
